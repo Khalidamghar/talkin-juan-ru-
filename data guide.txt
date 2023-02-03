@@ -33,70 +33,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/H1kWRbS.jpg",
+      "title": "talkin juan 1",
+        "text_Content": "Talking is a form of communication that allows individuals to exchange ideas, opinions, thoughts, and feelings with one another. It is a fundamental aspect of human interaction and is essential for social, professional, and personal relationships. In its simplest form, talking involves the exchange of sounds and words between two or more people, but it can also encompass nonverbal communication, such as gestures and facial expressions.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/H1kWYX9.jpg",
+      "title": "talkin juan 2",
+        "text_Content": "One of the most important aspects of talking is the use of language. Language is a system of symbols and rules that allow individuals to convey information and ideas to one another. It is a complex and sophisticated tool that enables humans to express their thoughts and feelings in a way that is easily understood by others. In order to effectively communicate, individuals must have a good understanding of language and be able to use it to convey their message accurately and effectively.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/H1kW7z7.jpg",
+      "title": "talkin juan 3",
+        "text_Content": "Another important aspect of talking is the ability to listen. Good communication requires not only the ability to speak but also the ability to listen and understand what others are saying. Listening is an active process that involves paying attention to the words being spoken, as well as the tone of voice, body language, and other nonverbal cues. Effective listeners are able to understand and respond to the information being conveyed, which helps to build trust and establish a positive communication dynamic.",
+        "text_Content_1": ""
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/H1kWAe2.jpg",
+      "title": "talkin juan 4",
+        "text_Content": "Talking can also be used for problem-solving and conflict resolution. By engaging in open and honest discussions, individuals can work together to find solutions to problems and resolve conflicts. In these situations, it is important to remain calm, respectful, and open-minded, even when disagreements arise. By working together and considering different perspectives, individuals can often find common ground and reach a mutually satisfactory solution.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/H1kWase.jpg",
+      "title": "talkin juan 5",
+        "text_Content": "Talking is also an important tool for building and maintaining relationships. Whether it is with family, friends, or colleagues, talking allows individuals to get to know one another, build trust, and form strong bonds. By sharing personal experiences, thoughts, and feelings, individuals can establish a deeper connection with one another and foster a sense of community.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/H1kWlqu.jpg",
+      "title": "talkin juan 6",
+        "text_Content": "However, talking can also have negative consequences if not used appropriately. Poor communication skills, such as interrupting, talking over others, or being disrespectful, can lead to misunderstandings, hurt feelings, and damaged relationships. Additionally, the use of offensive language or making inappropriate comments can be damaging to others and can create an hostile or uncomfortable environment.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/H1kW00b.jpg",
+      "title": "talkin juan 7",
+        "text_Content": "In conclusion, talking is a critical component of human communication and is essential for building and maintaining relationships, resolving conflicts, and exchanging information and ideas. Whether it is through language, nonverbal cues, or active listening, talking is a powerful tool that has the ability to bring people together, create understanding, and foster positive relationships. To be an effective communicator, it is important to be aware of the different elements of talking, including language, nonverbal communication, and active listening, and to use these skills in a respectful and appropriate manner.",
+        "text_Content_1": ""
 
 
 
